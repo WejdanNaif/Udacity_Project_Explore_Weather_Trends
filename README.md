@@ -3,6 +3,7 @@ A project submitted to Udacity regarding the global and local temperature,
 how they affect each other and derive conclusions from some basic analysis.
 
 it's include the two data-set that have been used.
+
 The search file with this main titles:
 1-Data Extraction.
     using SQL query
