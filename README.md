@@ -5,14 +5,14 @@ how they affect each other and derive conclusions from some basic analysis.
 it's include the two data-set that have been used.
 #
 The search file with this main titles:
-1-Data Extraction.
+1-Data Extraction./n
     using SQL query
-2-Data Organization.
+2-Data Organization./n
     caluclating the moving average ~ 12 year.
-3-Data Visualization.
+3-Data Visualization./n
     used python to explore and visulaze the data.
-4-Observation.
+4-Observation./n
     the observations were drive after done with the analysis.
 
-
+#
 also include the resourses needed to complete this file.
